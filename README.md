@@ -9,9 +9,9 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madesgriya&show_icons=true&theme=cobalt)
-[![GitHub Streak](https://streak-stats.demolab.com?user=madesgriya&theme=cobalt)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madesgriya&layout=compact&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madesgriya&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=madesgriya&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madesgriya&layout=compact&theme=dracula)
 
 <!--
 **madesgriya/madesgriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
